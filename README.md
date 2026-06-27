@@ -1,27 +1,26 @@
-# 💫 Hi 👋, I'm Arun kumar
-**A passionate web dev Engineer || from India**
+<h1 align="center">Hi 👋, I'm Arun kumar</h1>
+<h3 align="center">A passionate Software Engineering from India</h3>
 
-Email Me 👉 ✉️ **arunkumar2234567890@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun9711kumar&label=Profile%20views&color=0e75b6&style=flat" alt="arun9711kumar" /> </p>
 
-- 🔭 **I’m currently working on:**
+- 📫 How to reach me **arunkumar2234567890@gmail.com**
 
-- 
-- 🌱 **I’m currently learning:**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-838542325?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-838542325?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/arunnx_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/arunnx_kumar" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/https://discord.gg/82JwAgTm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/https://discord.gg/82JwAgTm" height="30" width="40" /></a>
+</p>
 
-- 
-- 👯 **I’m looking to collaborate on:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-- 
-- 🤔 **I’m looking for help with:**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun9711kumar&show_icons=true&locale=en&layout=compact" alt="arun9711kumar" /></p>
 
-- 
-- 💬 **Ask me about:**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun9711kumar&show_icons=true&locale=en" alt="arun9711kumar" /></p>
 
-- 
-- 📫 **How to reach me:** arunkumar2234567890@gmail.com
-- 
-- 😄 **Pronouns:** Arun
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun9711kumar&" alt="arun9711kumar" /></p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/82JwAgTm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunnx_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-838542325?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arun Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunkumar2234567890@gmail.com) 
 
